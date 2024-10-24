@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "drawerProject",
-    "slug": "drawerProject",
+    "name": "drawerProject5 API",
+    "slug": "drawerProject5 API",
     "version": "1.0.0",
+    "scheme": "drawerProject5 API",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -22,6 +23,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
